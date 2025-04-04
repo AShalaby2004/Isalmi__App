@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "705712851794",
+    "project_id": "fast-chat-442f1",
+    "storage_bucket": "fast-chat-442f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705712851794:android:bc6b96fa80b86eaf1d888b",
+        "android_client_info": {
+          "package_name": "com.examp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrn4jWDQcYPlNGJOMEQm8q2tmLE3AdICg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705712851794:android:24bd749b639239a51d888b",
+        "android_client_info": {
+          "package_name": "com.example.new_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrn4jWDQcYPlNGJOMEQm8q2tmLE3AdICg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
